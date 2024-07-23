@@ -58,7 +58,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Sri Ganesh Gubbala";
+            document.title = "Portfolio | Thanush BV";
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {
